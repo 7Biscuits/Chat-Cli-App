@@ -1,0 +1,12 @@
+{
+  "name": "Chat-Cli-App",
+  "version": "1.0.0",
+  "description": "A CLI chat application.",
+  "author": "Rudransh",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.7",
+    "socket.io": "^4.7.0",
+    "socket.io-client": "^4.7.0"
+  }
+}
